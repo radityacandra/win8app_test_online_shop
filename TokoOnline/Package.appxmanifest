@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="5d20c912-6d1b-4c5b-b690-1c0625527283" Publisher="CN=radityacandra" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>TokoOnline</DisplayName>
+    <PublisherDisplayName>radityacandra</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="TokoOnline.App">
+      <VisualElements DisplayName="TokoOnline" Logo="Assets\logo-normal.jpg" SmallLogo="Assets\logo-normal.jpg" Description="TokoOnline" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\logo-wide.jpg" />
+        <SplashScreen Image="Assets\logo-wide.jpg" BackgroundColor="white" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

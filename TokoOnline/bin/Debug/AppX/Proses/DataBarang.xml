@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<barang>
+	<item>
+		<namaBarang>Penghapus</namaBarang>
+		<hargaSatuan>1500</hargaSatuan>
+		<jumlahStok>50</jumlahStok>
+	</item>
+	<item>
+		<namaBarang>Pulpen</namaBarang>
+		<hargaSatuan>1500</hargaSatuan>
+		<jumlahStok>100</jumlahStok>
+	</item>
+	<item>
+		<namaBarang>Buku</namaBarang>
+		<hargaSatuan>2000</hargaSatuan>
+		<jumlahStok>100</jumlahStok>
+	</item>
+	<item>
+		<namaBarang>Pensil</namaBarang>
+		<hargaSatuan>2500</hargaSatuan>
+		<jumlahStok>20</jumlahStok>
+	</item>
+	<item>
+		<namaBarang>Binder</namaBarang>
+		<hargaSatuan>10000</hargaSatuan>
+		<jumlahStok>75</jumlahStok>
+	</item>
+</barang>

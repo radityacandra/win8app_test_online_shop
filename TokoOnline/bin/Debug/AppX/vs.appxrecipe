@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHANDRA-PC</Machine>
+    <WindowsUser>radityacandra</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>872C72547852D043AE6C3A3EAA8CD35B910C551A6ED3DB18183D2D99E83B0738</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5d20c912-6d1b-4c5b-b690-1c0625527283_1.0.0.0_neutral__pc8p1dg353hnt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5d20c912-6d1b-4c5b-b690-1c0625527283_pc8p1dg353hnt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5d20c912-6d1b-4c5b-b690-1c0625527283</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=radityacandra</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T17:04:20.100</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\TokoOnline.exe">
+      <PackagePath>TokoOnline.exe</PackagePath>
+      <Modified>2015-01-21T17:04:19.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\TokoOnline.pdb">
+      <PackagePath>TokoOnline.pdb</PackagePath>
+      <Modified>2015-01-21T17:04:19.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\1228321_water_paints.jpg">
+      <PackagePath>Assets\1228321_water_paints.jpg</PackagePath>
+      <Modified>2014-12-24T17:11:18.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\4152631_fasterc600.jpg">
+      <PackagePath>Assets\4152631_fasterc600.jpg</PackagePath>
+      <Modified>2014-12-20T00:22:52.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+      <Modified>2014-12-25T03:09:03.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\binderClip.JPG">
+      <PackagePath>Assets\binderClip.JPG</PackagePath>
+      <Modified>2014-12-24T17:16:12.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\BinderStkhmNvy10056028_x.jpg">
+      <PackagePath>Assets\BinderStkhmNvy10056028_x.jpg</PackagePath>
+      <Modified>2014-12-20T00:31:40.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\boardmarker.jpg">
+      <PackagePath>Assets\boardmarker.jpg</PackagePath>
+      <Modified>2014-12-24T16:58:55.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\Buku-Tulis-Campus.jpg">
+      <PackagePath>Assets\Buku-Tulis-Campus.jpg</PackagePath>
+      <Modified>2014-12-19T23:40:40.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\bukuAgenda.JPG">
+      <PackagePath>Assets\bukuAgenda.JPG</PackagePath>
+      <Modified>2014-12-24T17:06:21.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\catAir.jpg">
+      <PackagePath>Assets\catAir.jpg</PackagePath>
+      <Modified>2014-12-24T17:10:46.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\catMinyak.jpg">
+      <PackagePath>Assets\catMinyak.jpg</PackagePath>
+      <Modified>2014-12-24T17:09:27.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\cutter.jpg">
+      <PackagePath>Assets\cutter.jpg</PackagePath>
+      <Modified>2014-12-24T17:13:37.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\doubleTipBesar.jpg">
+      <PackagePath>Assets\doubleTipBesar.jpg</PackagePath>
+      <Modified>2014-12-24T17:21:23.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\doubleTipKecil.jpg">
+      <PackagePath>Assets\doubleTipKecil.jpg</PackagePath>
+      <Modified>2014-12-24T17:20:58.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\eraser.jpg">
+      <PackagePath>Assets\eraser.jpg</PackagePath>
+      <Modified>2014-12-20T00:23:58.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\kertas.jpg">
+      <PackagePath>Assets\kertas.jpg</PackagePath>
+      <Modified>2014-12-24T17:04:31.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\kertasBergaris.jpg">
+      <PackagePath>Assets\kertasBergaris.jpg</PackagePath>
+      <Modified>2014-12-24T17:22:38.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\kuasLukis.jpg">
+      <PackagePath>Assets\kuasLukis.jpg</PackagePath>
+      <Modified>2014-12-24T17:10:50.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\laser_pointer.jpg">
+      <PackagePath>Assets\laser_pointer.jpg</PackagePath>
+      <Modified>2014-12-24T17:12:29.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\lemAlteco.jpg">
+      <PackagePath>Assets\lemAlteco.jpg</PackagePath>
+      <Modified>2014-12-24T17:17:59.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\lemKertas.jpg">
+      <PackagePath>Assets\lemKertas.jpg</PackagePath>
+      <Modified>2014-12-24T17:17:08.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\logo-normal.jpg">
+      <PackagePath>Assets\logo-normal.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-25T04:00:39.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\logo-wide.jpg">
+      <PackagePath>Assets\logo-wide.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-25T03:59:37.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\Loose Leaf Paperline_20131108100040.jpg">
+      <PackagePath>Assets\Loose Leaf Paperline_20131108100040.jpg</PackagePath>
+      <Modified>2014-12-24T17:23:24.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\materai.jpg">
+      <PackagePath>Assets\materai.jpg</PackagePath>
+      <Modified>2014-12-24T17:03:51.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\notes.jpg">
+      <PackagePath>Assets\notes.jpg</PackagePath>
+      <Modified>2014-12-24T17:06:56.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\pena.jpg">
+      <PackagePath>Assets\pena.jpg</PackagePath>
+      <Modified>2014-12-24T17:03:10.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\penghapus.jpg">
+      <PackagePath>Assets\penghapus.jpg</PackagePath>
+      <Modified>2014-12-19T15:38:00.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\penghapusPapan.jpg">
+      <PackagePath>Assets\penghapusPapan.jpg</PackagePath>
+      <Modified>2014-12-24T17:07:36.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\Pensil.jpg">
+      <PackagePath>Assets\Pensil.jpg</PackagePath>
+      <Modified>2014-12-20T00:21:26.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\pensilMekanik.jpg">
+      <PackagePath>Assets\pensilMekanik.jpg</PackagePath>
+      <Modified>2014-12-24T17:00:10.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\pensilWarna.jpg">
+      <PackagePath>Assets\pensilWarna.jpg</PackagePath>
+      <Modified>2014-12-24T16:58:13.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\rautan.jpg">
+      <PackagePath>Assets\rautan.jpg</PackagePath>
+      <Modified>2014-12-24T16:55:48.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\snowman-permanent-maker.jpg">
+      <PackagePath>Assets\snowman-permanent-maker.jpg</PackagePath>
+      <Modified>2014-12-24T17:08:29.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\solasiBan.jpg">
+      <PackagePath>Assets\solasiBan.jpg</PackagePath>
+      <Modified>2014-12-24T17:20:15.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\solasiKecil.jpg">
+      <PackagePath>Assets\solasiKecil.jpg</PackagePath>
+      <Modified>2014-12-24T17:19:26.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\spidol.jpg">
+      <PackagePath>Assets\spidol.jpg</PackagePath>
+      <Modified>2014-12-24T16:57:37.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\stabilo.jpg">
+      <PackagePath>Assets\stabilo.jpg</PackagePath>
+      <Modified>2014-12-24T16:55:07.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\stickyNote.jpg">
+      <PackagePath>Assets\stickyNote.jpg</PackagePath>
+      <Modified>2014-12-24T17:05:43.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\tipeX.jpg">
+      <PackagePath>Assets\tipeX.jpg</PackagePath>
+      <Modified>2014-12-20T00:27:38.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_dusgrip.jpg">
+      <PackagePath>Assets\_dusgrip.jpg</PackagePath>
+      <Modified>2014-12-25T01:14:34.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_fd.jpg">
+      <PackagePath>Assets\_fd.jpg</PackagePath>
+      <Modified>2014-12-24T19:36:02.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_isiStapler.jpg">
+      <PackagePath>Assets\_isiStapler.jpg</PackagePath>
+      <Modified>2014-12-24T19:38:12.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kalkulator.jpg">
+      <PackagePath>Assets\_kalkulator.jpg</PackagePath>
+      <Modified>2014-12-24T19:36:49.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kertasFax.jpg">
+      <PackagePath>Assets\_kertasFax.jpg</PackagePath>
+      <Modified>2014-12-24T19:32:08.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kertasKarbon.jpg">
+      <PackagePath>Assets\_kertasKarbon.jpg</PackagePath>
+      <Modified>2014-12-24T19:33:13.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kertasKarton.jpg">
+      <PackagePath>Assets\_kertasKarton.jpg</PackagePath>
+      <Modified>2014-12-24T19:41:25.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kertasMinyak.jpg">
+      <PackagePath>Assets\_kertasMinyak.jpg</PackagePath>
+      <Modified>2014-12-24T19:42:13.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kwitansi.jpg">
+      <PackagePath>Assets\_kwitansi.jpg</PackagePath>
+      <Modified>2014-12-24T19:39:28.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_label-undangan.jpg">
+      <PackagePath>Assets\_label-undangan.jpg</PackagePath>
+      <Modified>2014-12-24T19:31:27.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_sonycdr.jpg">
+      <PackagePath>Assets\_sonycdr.jpg</PackagePath>
+      <Modified>2014-12-24T19:28:22.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_stapler.jpg">
+      <PackagePath>Assets\_stapler.jpg</PackagePath>
+      <Modified>2014-12-24T19:37:41.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_tempatCD.jpg">
+      <PackagePath>Assets\_tempatCD.jpg</PackagePath>
+      <Modified>2014-12-24T19:35:18.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_tintaPrinter.jpg">
+      <PackagePath>Assets\_tintaPrinter.jpg</PackagePath>
+      <Modified>2014-12-24T19:33:56.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\add-item-icon.png">
+      <PackagePath>Assets\add-item-icon.png</PackagePath>
+      <Modified>2014-12-25T03:31:57.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-15T13:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\shopping-cart-icon.png">
+      <PackagePath>Assets\shopping-cart-icon.png</PackagePath>
+      <Modified>2014-12-25T03:08:28.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-15T13:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-15T13:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T13:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\gunting.jpeg">
+      <PackagePath>Assets\gunting.jpeg</PackagePath>
+      <Modified>2014-12-24T17:15:40.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_amplopBesar.jpeg">
+      <PackagePath>Assets\_amplopBesar.jpeg</PackagePath>
+      <Modified>2014-12-24T19:30:47.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_stopmap.jpeg">
+      <PackagePath>Assets\_stopmap.jpeg</PackagePath>
+      <Modified>2014-12-25T01:13:09.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-12-19T11:21:22.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Proses\DataBarang.xml">
+      <PackagePath>Proses\DataBarang.xml</PackagePath>
+      <Modified>2014-12-20T05:44:08.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-12-19T10:59:11.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\CekckoutBeli.xaml">
+      <PackagePath>CekckoutBeli.xaml</PackagePath>
+      <Modified>2014-12-26T02:02:44.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\CobaXML.xaml">
+      <PackagePath>CobaXML.xaml</PackagePath>
+      <Modified>2014-12-20T04:45:03.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T09:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\FormTambahItem.xaml">
+      <PackagePath>FormTambahItem.xaml</PackagePath>
+      <Modified>2014-12-25T03:54:32.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-12-25T03:33:21.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\PilihItem.xaml">
+      <PackagePath>PilihItem.xaml</PackagePath>
+      <Modified>2014-12-25T03:43:24.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-21T17:04:19.720</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

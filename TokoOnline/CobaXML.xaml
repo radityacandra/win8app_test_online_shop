@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="TokoOnline.CobaXML"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TokoOnline"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <GridView x:Name="itemBarang" SelectionMode="Multiple" IsItemClickEnabled="True" ItemClick="Klik_Item" Grid.Column="0">
+                <GridView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Width="100">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="150"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Image Source="{Binding lokasiGambar}"  Grid.Row="0"></Image>
+                            <TextBlock x:Name="namaItem" Text="{Binding namaBarang}" Grid.Row="1"></TextBlock>
+                            <TextBlock x:Name="hargaItem" Text="{Binding hargaSatuan}" Grid.Row="2"></TextBlock>
+                        </Grid>
+                    </DataTemplate>
+                </GridView.ItemTemplate>
+            </GridView>
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                </Grid.RowDefinitions>
+                <ListView Grid.Row="0" x:Name="itemBarangTerpilih">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="50"></ColumnDefinition>
+                                    <ColumnDefinition Width="100"></ColumnDefinition>
+                                    <ColumnDefinition Width="100*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" x:Name="nomorSelected"></TextBlock>
+                                <TextBlock Grid.Column="1" x:Name="namaSelected" Text="{Binding namaBarang}"></TextBlock>
+                                <TextBlock Grid.Column="2" x:Name="hargaSelected" Text="{Binding hargaSatuan}"></TextBlock>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Text="harga total" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+                    <TextBox Grid.Column="1" x:Name="TextTotalHarga" Text="0"></TextBox>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHANDRA-PC</Machine>
+    <WindowsUser>radityacandra</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\TokoOnline.exe">
+      <PackagePath>TokoOnline.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\TokoOnline.pdb">
+      <PackagePath>TokoOnline.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\1228321_water_paints.jpg">
+      <PackagePath>Assets\1228321_water_paints.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\4152631_fasterc600.jpg">
+      <PackagePath>Assets\4152631_fasterc600.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\binderClip.JPG">
+      <PackagePath>Assets\binderClip.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\BinderStkhmNvy10056028_x.jpg">
+      <PackagePath>Assets\BinderStkhmNvy10056028_x.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\boardmarker.jpg">
+      <PackagePath>Assets\boardmarker.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\Buku-Tulis-Campus.jpg">
+      <PackagePath>Assets\Buku-Tulis-Campus.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\bukuAgenda.JPG">
+      <PackagePath>Assets\bukuAgenda.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\catAir.jpg">
+      <PackagePath>Assets\catAir.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\catMinyak.jpg">
+      <PackagePath>Assets\catMinyak.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\cutter.jpg">
+      <PackagePath>Assets\cutter.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\doubleTipBesar.jpg">
+      <PackagePath>Assets\doubleTipBesar.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\doubleTipKecil.jpg">
+      <PackagePath>Assets\doubleTipKecil.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\eraser.jpg">
+      <PackagePath>Assets\eraser.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\kertas.jpg">
+      <PackagePath>Assets\kertas.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\kertasBergaris.jpg">
+      <PackagePath>Assets\kertasBergaris.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\kuasLukis.jpg">
+      <PackagePath>Assets\kuasLukis.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\laser_pointer.jpg">
+      <PackagePath>Assets\laser_pointer.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\lemAlteco.jpg">
+      <PackagePath>Assets\lemAlteco.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\lemKertas.jpg">
+      <PackagePath>Assets\lemKertas.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\logo-normal.jpg">
+      <PackagePath>Assets\logo-normal.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\logo-wide.jpg">
+      <PackagePath>Assets\logo-wide.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\Loose Leaf Paperline_20131108100040.jpg">
+      <PackagePath>Assets\Loose Leaf Paperline_20131108100040.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\materai.jpg">
+      <PackagePath>Assets\materai.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\notes.jpg">
+      <PackagePath>Assets\notes.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\pena.jpg">
+      <PackagePath>Assets\pena.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\penghapus.jpg">
+      <PackagePath>Assets\penghapus.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\penghapusPapan.jpg">
+      <PackagePath>Assets\penghapusPapan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\Pensil.jpg">
+      <PackagePath>Assets\Pensil.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\pensilMekanik.jpg">
+      <PackagePath>Assets\pensilMekanik.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\pensilWarna.jpg">
+      <PackagePath>Assets\pensilWarna.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\rautan.jpg">
+      <PackagePath>Assets\rautan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\snowman-permanent-maker.jpg">
+      <PackagePath>Assets\snowman-permanent-maker.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\solasiBan.jpg">
+      <PackagePath>Assets\solasiBan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\solasiKecil.jpg">
+      <PackagePath>Assets\solasiKecil.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\spidol.jpg">
+      <PackagePath>Assets\spidol.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\stabilo.jpg">
+      <PackagePath>Assets\stabilo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\stickyNote.jpg">
+      <PackagePath>Assets\stickyNote.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\tipeX.jpg">
+      <PackagePath>Assets\tipeX.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_dusgrip.jpg">
+      <PackagePath>Assets\_dusgrip.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_fd.jpg">
+      <PackagePath>Assets\_fd.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_isiStapler.jpg">
+      <PackagePath>Assets\_isiStapler.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kalkulator.jpg">
+      <PackagePath>Assets\_kalkulator.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kertasFax.jpg">
+      <PackagePath>Assets\_kertasFax.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kertasKarbon.jpg">
+      <PackagePath>Assets\_kertasKarbon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kertasKarton.jpg">
+      <PackagePath>Assets\_kertasKarton.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kertasMinyak.jpg">
+      <PackagePath>Assets\_kertasMinyak.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_kwitansi.jpg">
+      <PackagePath>Assets\_kwitansi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_label-undangan.jpg">
+      <PackagePath>Assets\_label-undangan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_sonycdr.jpg">
+      <PackagePath>Assets\_sonycdr.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_stapler.jpg">
+      <PackagePath>Assets\_stapler.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_tempatCD.jpg">
+      <PackagePath>Assets\_tempatCD.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_tintaPrinter.jpg">
+      <PackagePath>Assets\_tintaPrinter.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\add-item-icon.png">
+      <PackagePath>Assets\add-item-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\shopping-cart-icon.png">
+      <PackagePath>Assets\shopping-cart-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\gunting.jpeg">
+      <PackagePath>Assets\gunting.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_amplopBesar.jpeg">
+      <PackagePath>Assets\_amplopBesar.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Assets\_stopmap.jpeg">
+      <PackagePath>Assets\_stopmap.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\Proses\DataBarang.xml">
+      <PackagePath>Proses\DataBarang.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\CekckoutBeli.xaml">
+      <PackagePath>CekckoutBeli.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\CobaXML.xaml">
+      <PackagePath>CobaXML.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\FormTambahItem.xaml">
+      <PackagePath>FormTambahItem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\PilihItem.xaml">
+      <PackagePath>PilihItem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\radityacandra\Documents\Visual Studio 2012\Projects\TokoOnline\TokoOnline\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
